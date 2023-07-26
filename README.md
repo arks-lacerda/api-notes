@@ -60,7 +60,7 @@ Node project developed during Stage 08 of Rocketseat Explorer program.
 #### Clone this repository
 
 ```bash
-$ git clone https://github.com/
+$ git clone https://github.com/arks-lacerda/api-notes.git
 ```
 
 #### Access project folder in terminal/cmd
